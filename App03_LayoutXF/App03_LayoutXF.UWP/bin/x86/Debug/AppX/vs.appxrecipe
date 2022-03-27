@@ -68,7 +68,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\source\repos\App03_LayoutXF\App03_LayoutXF\App03_LayoutXF\bin\Debug\netstandard2.0\App03_LayoutXF.dll">
       <PackagePath>App03_LayoutXF.dll</PackagePath>
-      <Modified>2022-03-27T18:50:56.669</Modified>
+      <Modified>2022-03-27T21:21:25.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ingri\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
